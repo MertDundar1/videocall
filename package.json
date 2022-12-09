@@ -13,7 +13,7 @@
     "@material/chips": "^0.43.0",
     "datamaps": "^0.5.9",
     "fetch-intercept": "^2.3.1",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "materialize-css": "^1.0.0",
     "monaco-editor-forvue": "^1.0.3",
     "monaco-editor-vue": "^1.0.4",
